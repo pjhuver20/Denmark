@@ -1,0 +1,55 @@
+div{
+  margin-left:290px;
+}
+body{
+  background:url("https://st3.depositphotos.com/1006031/12790/i/450/depositphotos_127904298-stock-photo-flag-of-denmark-mosaic-background.jpg");
+}
+header{
+  padding:50px;
+  width:90%;
+  height:50px;
+  background:lightcoral;
+  margin-left:25px;
+  margin-bottom:100px;
+  margin-top:20px;
+  
+
+}
+h1{
+  text-align:center;
+  font-size:100px;
+  margin-top:1px;
+  text-shadow: 2px 2px 5px white;
+  color:crimson;
+}
+h2{
+  font-size:60px;
+  text-shadow: 2px 2px 5px crimson;
+  color:white;
+ 
+  border-bottom: solid white;
+
+}
+div.gallery {
+    margin: 10px;
+    border: 1px solid #ccc;
+  display:inline-block;
+    
+    width: 220px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: 200px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;  
+    color:white;
+  
+}
